@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".user_interface.fragments.NoteEditingFragment">
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/note_title_text_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@android:color/transparent"
+        android:gravity="top"
+        android:hint="@string/title_text_input_hint"
+        android:inputType="text"
+        android:letterSpacing="0"
+        android:lines="1"
+        android:overScrollMode="always"
+        android:padding="16dp"
+        android:scrollbars="horizontal"
+        android:textColor="@color/neutrals_900"
+        android:textColorHint="@color/neutrals_300"
+        android:textSize="40sp" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/note_body_text_input"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:backgroundTint="@android:color/transparent"
+        android:gravity="top"
+        android:hint="@string/body_text_input_hint"
+        android:inputType="textMultiLine"
+        android:letterSpacing="0"
+        android:overScrollMode="always"
+        android:padding="16dp"
+        android:scrollbars="vertical"
+        android:textColor="@color/neutrals_900"
+        android:textColorHint="@color/neutrals_300"
+        android:textSize="16sp" />
+</LinearLayout>

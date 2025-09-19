@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="neutrals_1000">#000000</color>
+    <color name="neutrals_900">#08000F</color>
+    <color name="neutrals_800">#242226</color>
+    <color name="neutrals_700">#2E2C30</color>
+    <color name="neutrals_600">#444047</color>
+    <color name="neutrals_500">#615C66</color>
+    <color name="neutrals_400">#7C7582</color>
+    <color name="neutrals_300">#AAA1B2</color>
+    <color name="neutrals_200">#DFD3EB</color>
+    <color name="neutrals_100">#F9F2FF</color>
+    <color name="neutrals_000">#FFFFFF</color>
+
+    <color name="primary_900">#2A0D45</color>
+    <color name="primary_800">#3C1461</color>
+    <color name="primary_700">#460F7A</color>
+    <color name="primary_600">#5905A8</color>
+    <color name="primary_500">#840CF5</color>
+    <color name="primary_400">#B669FF</color>
+    <color name="primary_300">#D4A9FC</color>
+    <color name="primary_200">#EAD4FF</color>
+    <color name="primary_100">#F8F0FF</color>
+
+    <color name="secondary_900">#0D4532</color>
+    <color name="secondary_800">#146147</color>
+    <color name="secondary_700">#0F7A56</color>
+    <color name="secondary_600">#05A872</color>
+    <color name="secondary_500">#0CF5A7</color>
+    <color name="secondary_400">#69FFCD</color>
+    <color name="secondary_300">#A9FCE1</color>
+    <color name="secondary_200">#D4FFF1</color>
+    <color name="secondary_100">#F0FFFA</color>
+</resources>
